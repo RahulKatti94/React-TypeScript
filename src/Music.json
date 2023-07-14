@@ -1,0 +1,260 @@
+{
+  "collection": "My Music Collection",
+  "genres": [
+    {
+      "genre": "Rock",
+      "artists": [
+        {
+          "id": 1,
+          "name": "Led Zeppelin",
+          "albums": [
+            {
+              "id": 1,
+              "title": "Led Zeppelin IV",
+              "year": 1971,
+              "tracks": [
+                {
+                  "id": 1,
+                  "title": "Stairway to Heaven",
+                  "duration": "8:02"
+                },
+                {
+                  "id": 2,
+                  "title": "Black Dog",
+                  "duration": "4:55"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Physical Graffiti",
+              "year": 1975,
+              "tracks": [
+                {
+                  "id": 3,
+                  "title": "Kashmir",
+                  "duration": "8:29"
+                },
+                {
+                  "id": 4,
+                  "title": "Trampled Under Foot",
+                  "duration": "5:35"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Queen",
+          "albums": [
+            {
+              "id": 3,
+              "title": "A Night at the Opera",
+              "year": 1975,
+              "tracks": [
+                {
+                  "id": 5,
+                  "title": "Bohemian Rhapsody",
+                  "duration": "5:55"
+                },
+                {
+                  "id": 6,
+                  "title": "You're My Best Friend",
+                  "duration": "2:52"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "title": "News of the World",
+              "year": 1977,
+              "tracks": [
+                {
+                  "id": 7,
+                  "title": "We Will Rock You",
+                  "duration": "2:02"
+                },
+                {
+                  "id": 8,
+                  "title": "We Are the Champions",
+                  "duration": "2:59"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "Pop",
+      "artists": [
+        {
+          "id": 3,
+          "name": "Michael Jackson",
+          "albums": [
+            {
+              "id": 5,
+              "title": "Thriller",
+              "year": 1982,
+              "tracks": [
+                {
+                  "id": 9,
+                  "title": "Billie Jean",
+                  "duration": "4:54"
+                },
+                {
+                  "id": 10,
+                  "title": "Beat It",
+                  "duration": "4:17"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "title": "Bad",
+              "year": 1987,
+              "tracks": [
+                {
+                  "id": 11,
+                  "title": "Smooth Criminal",
+                  "duration": "4:17"
+                },
+                {
+                  "id": 12,
+                  "title": "The Way You Make Me Feel",
+                  "duration": "4:58"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Madonna",
+          "albums": [
+            {
+              "id": 7,
+              "title": "Like a Virgin",
+              "year": 1984,
+              "tracks": [
+                {
+                  "id": 13,
+                  "title": "Like a Virgin",
+                  "duration": "3:08"
+                },
+                {
+                  "id": 14,
+                  "title": "Material Girl",
+                  "duration": "4:01"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "title": "True Blue",
+              "year": 1986,
+              "tracks": [
+                {
+                  "id": 15,
+                  "title": "Papa Don't Preach",
+                  "duration": "4:29"
+                },
+                {
+                  "id": 16,
+                  "title": "Open Your Heart",
+                  "duration": "3:50"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "Hip-Hop",
+      "artists": [
+        {
+          "id": 5,
+          "name": "Eminem",
+          "albums": [
+            {
+              "id": 9,
+              "title": "The Marshall Mathers LP",
+              "year": 2000,
+              "tracks": [
+                {
+                  "id": 17,
+                  "title": "Stan",
+                  "duration": "6:44"
+                },
+                {
+                  "id": 18,
+                  "title": "The Real Slim Shady",
+                  "duration": "4:44"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "title": "The Eminem Show",
+              "year": 2002,
+              "tracks": [
+                {
+                  "id": 19,
+                  "title": "Without Me",
+                  "duration": "4:50"
+                },
+                {
+                  "id": 20,
+                  "title": "Cleaning Out My Closet",
+                  "duration": "4:57"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Kendrick Lamar",
+          "albums": [
+            {
+              "id": 11,
+              "title": "good kid, m.A.A.d city",
+              "year": 2012,
+              "tracks": [
+                {
+                  "id": 21,
+                  "title": "Swimming Pools (Drank)",
+                  "duration": "4:07"
+                },
+                {
+                  "id": 22,
+                  "title": "Bitch, Don't Kill My Vibe",
+                  "duration": "5:10"
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "title": "To Pimp a Butterfly",
+              "year": 2015,
+              "tracks": [
+                {
+                  "id": 23,
+                  "title": "Alright",
+                  "duration": "3:39"
+                },
+                {
+                  "id": 24,
+                  "title": "King Kunta",
+                  "duration": "3:54"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
